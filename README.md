@@ -4,7 +4,7 @@
 
 This project analyzes customer data from a telecom company to identify the factors that influence customer churn (customers leaving the service). The dashboard provides business insights that help improve customer retention and support data-driven decision-making.
 
----
+
 
 ## 🎯 Objective
 
@@ -15,7 +15,7 @@ The main objective of this project is to:
 - Create an interactive Power BI dashboard.
 - Help businesses make better decisions to reduce customer churn.
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -24,7 +24,7 @@ The main objective of this project is to:
 - DAX
 - Microsoft Excel / CSV Dataset
 
----
+
 
 ## 📈 Dashboard Features
 
@@ -50,21 +50,11 @@ The main objective of this project is to:
 - Customers with shorter tenure are more likely to leave.
 - Long-term contract customers have better retention.
 
----
 
 
 
-## 📷 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
 
-Example:
-
-```
-Images/Dashboard.png
-```
-
----
 
 ## 📚 Skills Demonstrated
 
